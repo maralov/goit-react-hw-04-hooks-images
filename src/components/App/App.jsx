@@ -7,8 +7,6 @@ import Button from 'components/Button';
 import Loader from 'components/Loader';
 import Modal from 'components/Modal';
 
-import { BASE_API_URL, API_KEY } from '../utils/constants'
-
 import s from './App.module.css';
 import { fetchMovies } from '../utils/apiService';
 
